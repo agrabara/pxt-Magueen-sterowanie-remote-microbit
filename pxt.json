@@ -4,7 +4,8 @@
     "description": "",
     "dependencies": {
         "core": "*",
-        "radio": "*"
+        "radio": "*",
+        "maqueen": "github:dfrobot/pxt-maqueen#v1.2.1"
     },
     "files": [
         "README.md",
@@ -14,5 +15,5 @@
         "test.ts"
     ],
     "public": false,
-    "additionalFilePaths": []
+    "preferredEditor": "tsprj"
 }
